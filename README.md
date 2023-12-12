@@ -1,4 +1,4 @@
-# 2021-fall-bootcamp-
+# 2021-fall-bootcamp
 
 [1. Computational basics with Unix](https://github.com/McGill-MiCM/2021-fall-bootcamp-/blob/main/MiCM_UNIXbasics_092021_final.pdf) *by Larisa Soto*
 
